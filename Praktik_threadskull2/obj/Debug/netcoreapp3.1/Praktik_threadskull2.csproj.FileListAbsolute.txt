@@ -1,0 +1,13 @@
+/Users/rizaagustiansyah/Documents/Visual_Studio/Praktik_threadskull2/Praktik_threadskull2/bin/Debug/netcoreapp3.1/Praktik_threadskull2.deps.json
+/Users/rizaagustiansyah/Documents/Visual_Studio/Praktik_threadskull2/Praktik_threadskull2/bin/Debug/netcoreapp3.1/Praktik_threadskull2.runtimeconfig.json
+/Users/rizaagustiansyah/Documents/Visual_Studio/Praktik_threadskull2/Praktik_threadskull2/bin/Debug/netcoreapp3.1/Praktik_threadskull2.runtimeconfig.dev.json
+/Users/rizaagustiansyah/Documents/Visual_Studio/Praktik_threadskull2/Praktik_threadskull2/bin/Debug/netcoreapp3.1/Praktik_threadskull2.dll
+/Users/rizaagustiansyah/Documents/Visual_Studio/Praktik_threadskull2/Praktik_threadskull2/bin/Debug/netcoreapp3.1/Praktik_threadskull2.pdb
+/Users/rizaagustiansyah/Documents/Visual_Studio/Praktik_threadskull2/Praktik_threadskull2/obj/Debug/netcoreapp3.1/Praktik_threadskull2.csproj.AssemblyReference.cache
+/Users/rizaagustiansyah/Documents/Visual_Studio/Praktik_threadskull2/Praktik_threadskull2/obj/Debug/netcoreapp3.1/Praktik_threadskull2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizaagustiansyah/Documents/Visual_Studio/Praktik_threadskull2/Praktik_threadskull2/obj/Debug/netcoreapp3.1/Praktik_threadskull2.AssemblyInfoInputs.cache
+/Users/rizaagustiansyah/Documents/Visual_Studio/Praktik_threadskull2/Praktik_threadskull2/obj/Debug/netcoreapp3.1/Praktik_threadskull2.AssemblyInfo.cs
+/Users/rizaagustiansyah/Documents/Visual_Studio/Praktik_threadskull2/Praktik_threadskull2/obj/Debug/netcoreapp3.1/Praktik_threadskull2.csproj.CoreCompileInputs.cache
+/Users/rizaagustiansyah/Documents/Visual_Studio/Praktik_threadskull2/Praktik_threadskull2/obj/Debug/netcoreapp3.1/Praktik_threadskull2.dll
+/Users/rizaagustiansyah/Documents/Visual_Studio/Praktik_threadskull2/Praktik_threadskull2/obj/Debug/netcoreapp3.1/Praktik_threadskull2.pdb
+/Users/rizaagustiansyah/Documents/Visual_Studio/Praktik_threadskull2/Praktik_threadskull2/obj/Debug/netcoreapp3.1/Praktik_threadskull2.genruntimeconfig.cache
